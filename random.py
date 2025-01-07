@@ -2,7 +2,7 @@
 ### RANDOM v1 ###
 #################
 #
-# TITLE: random_v1.py
+# TITLE: random.py
 # AUTHOR: Boardleash (Derek)
 # DATE: Saturday, July 27 2024
 #
